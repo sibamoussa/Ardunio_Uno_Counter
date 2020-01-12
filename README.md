@@ -1,4 +1,4 @@
-# Tinkering-with-Arduino-UNO
+# Ardunio_Uno_Counter
 Purpose: This code will help you build a counter and display it in an LCD screen integrated with an arduino. 
 
 Tools: LCD Display, Arduino Board, 
